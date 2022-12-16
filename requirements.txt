@@ -1,0 +1,10 @@
+numpy
+pandas
+sklearn
+flask
+regex
+fuzzywuzzy
+distance
+bs4
+nltk.corpus
+gensim
